@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "e78c5ca210a8efc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f38fce4d21548e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d45f4dfadafe7f2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session 0 and steam workshop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "session 0 and steam workshop"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "712ff9c4ccfea046",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cc3447217d277ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18696417d35cf252",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7bd715695c289e4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c37502997ac83fe8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b05b12e0d2181618",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a9983013584711b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1c1a65c51e4e062",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "session 0 and steam workshop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for session 0 and steam workshop"
+            }
+          },
+          {
+            "id": "83004df6783af685",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "session 0 and steam workshop.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from session 0 and steam workshop"
+            }
+          },
+          {
+            "id": "a1dcaf912e184c08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "829b897a1716e8f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "session 0 and steam workshop.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of session 0 and steam workshop"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d45f4dfadafe7f2b",
+  "lastOpenFiles": [
+    "session 1.md",
+    "session 2.md"
+  ]
+}
